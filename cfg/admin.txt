@@ -1,2 +1,2 @@
-admin
-admin
+group12
+nas
